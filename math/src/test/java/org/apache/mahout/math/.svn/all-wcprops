@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/repos/asf/!svn/ver/947484/mahout/trunk/math/src/test/java/org/apache/mahout/math
+END
+TestMatrixView.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/repos/asf/!svn/ver/943565/mahout/trunk/math/src/test/java/org/apache/mahout/math/TestMatrixView.java
+END
+TestSparseColumnMatrix.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/repos/asf/!svn/ver/943565/mahout/trunk/math/src/test/java/org/apache/mahout/math/TestSparseColumnMatrix.java
+END
+VectorTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/repos/asf/!svn/ver/943565/mahout/trunk/math/src/test/java/org/apache/mahout/math/VectorTest.java
+END
+TestRandomAccessSparseVector.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repos/asf/!svn/ver/943565/mahout/trunk/math/src/test/java/org/apache/mahout/math/TestRandomAccessSparseVector.java
+END
+MatrixTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/repos/asf/!svn/ver/943565/mahout/trunk/math/src/test/java/org/apache/mahout/math/MatrixTest.java
+END
+TestOrderedIntDoubleMapping.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repos/asf/!svn/ver/943565/mahout/trunk/math/src/test/java/org/apache/mahout/math/TestOrderedIntDoubleMapping.java
+END
+TestSparseRowMatrix.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repos/asf/!svn/ver/943565/mahout/trunk/math/src/test/java/org/apache/mahout/math/TestSparseRowMatrix.java
+END
+TestDenseVector.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/repos/asf/!svn/ver/943565/mahout/trunk/math/src/test/java/org/apache/mahout/math/TestDenseVector.java
+END
+TestSparseMatrix.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/repos/asf/!svn/ver/943565/mahout/trunk/math/src/test/java/org/apache/mahout/math/TestSparseMatrix.java
+END
+TestDenseMatrix.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/repos/asf/!svn/ver/943565/mahout/trunk/math/src/test/java/org/apache/mahout/math/TestDenseMatrix.java
+END
+AbstractTestVector.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/repos/asf/!svn/ver/947484/mahout/trunk/math/src/test/java/org/apache/mahout/math/AbstractTestVector.java
+END
+AIOOBInSortingTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/repos/asf/!svn/ver/943565/mahout/trunk/math/src/test/java/org/apache/mahout/math/AIOOBInSortingTest.java
+END
+MahoutTestCase.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/repos/asf/!svn/ver/943565/mahout/trunk/math/src/test/java/org/apache/mahout/math/MahoutTestCase.java
+END
+TestSequentialAccessSparseVector.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/repos/asf/!svn/ver/943565/mahout/trunk/math/src/test/java/org/apache/mahout/math/TestSequentialAccessSparseVector.java
+END
+TestVectorView.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/repos/asf/!svn/ver/943565/mahout/trunk/math/src/test/java/org/apache/mahout/math/TestVectorView.java
+END

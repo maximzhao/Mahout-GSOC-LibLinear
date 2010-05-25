@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/repos/asf/!svn/ver/943565/mahout/trunk/examples/src/main/java/org/apache/mahout/cf/taste/example/grouplens
+END
+GroupLensRecommender.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/repos/asf/!svn/ver/943565/mahout/trunk/examples/src/main/java/org/apache/mahout/cf/taste/example/grouplens/GroupLensRecommender.java
+END
+GroupLensRecommenderBuilder.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/repos/asf/!svn/ver/943565/mahout/trunk/examples/src/main/java/org/apache/mahout/cf/taste/example/grouplens/GroupLensRecommenderBuilder.java
+END
+GroupLensDataModel.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/repos/asf/!svn/ver/943565/mahout/trunk/examples/src/main/java/org/apache/mahout/cf/taste/example/grouplens/GroupLensDataModel.java
+END
+GroupLensRecommenderEvaluatorRunner.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/repos/asf/!svn/ver/943565/mahout/trunk/examples/src/main/java/org/apache/mahout/cf/taste/example/grouplens/GroupLensRecommenderEvaluatorRunner.java
+END

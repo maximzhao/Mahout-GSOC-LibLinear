@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/repos/asf/!svn/ver/943565/mahout/trunk/core/src/test/java/org/apache/mahout/cf/taste/impl/eval
+END
+RMSRecommenderEvaluatorTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/repos/asf/!svn/ver/943565/mahout/trunk/core/src/test/java/org/apache/mahout/cf/taste/impl/eval/RMSRecommenderEvaluatorTest.java
+END
+AverageAbsoluteDifferenceRecommenderEvaluatorTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/repos/asf/!svn/ver/943565/mahout/trunk/core/src/test/java/org/apache/mahout/cf/taste/impl/eval/AverageAbsoluteDifferenceRecommenderEvaluatorTest.java
+END
+GenericRecommenderIRStatsEvaluatorImplTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/repos/asf/!svn/ver/943565/mahout/trunk/core/src/test/java/org/apache/mahout/cf/taste/impl/eval/GenericRecommenderIRStatsEvaluatorImplTest.java
+END

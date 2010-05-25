@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/repos/asf/!svn/ver/943565/mahout/trunk/math/src/main/java/org/apache/mahout/math/matrix/linalg
+END
+QRDecomposition.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/repos/asf/!svn/ver/943565/mahout/trunk/math/src/main/java/org/apache/mahout/math/matrix/linalg/QRDecomposition.java
+END
+Blas.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/repos/asf/!svn/ver/943565/mahout/trunk/math/src/main/java/org/apache/mahout/math/matrix/linalg/Blas.java
+END
+EigenvalueDecomposition.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/repos/asf/!svn/ver/943565/mahout/trunk/math/src/main/java/org/apache/mahout/math/matrix/linalg/EigenvalueDecomposition.java
+END
+Property.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/repos/asf/!svn/ver/943565/mahout/trunk/math/src/main/java/org/apache/mahout/math/matrix/linalg/Property.java
+END
+LUDecompositionQuick.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/repos/asf/!svn/ver/943565/mahout/trunk/math/src/main/java/org/apache/mahout/math/matrix/linalg/LUDecompositionQuick.java
+END
+SeqBlas.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/repos/asf/!svn/ver/943565/mahout/trunk/math/src/main/java/org/apache/mahout/math/matrix/linalg/SeqBlas.java
+END
+Matrix2DMatrix2DFunction.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/repos/asf/!svn/ver/943565/mahout/trunk/math/src/main/java/org/apache/mahout/math/matrix/linalg/Matrix2DMatrix2DFunction.java
+END
+Algebra.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/repos/asf/!svn/ver/943565/mahout/trunk/math/src/main/java/org/apache/mahout/math/matrix/linalg/Algebra.java
+END
+LUDecomposition.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/repos/asf/!svn/ver/943565/mahout/trunk/math/src/main/java/org/apache/mahout/math/matrix/linalg/LUDecomposition.java
+END
+CholeskyDecomposition.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/repos/asf/!svn/ver/943565/mahout/trunk/math/src/main/java/org/apache/mahout/math/matrix/linalg/CholeskyDecomposition.java
+END
+Diagonal.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/repos/asf/!svn/ver/943565/mahout/trunk/math/src/main/java/org/apache/mahout/math/matrix/linalg/Diagonal.java
+END
+SingularValueDecomposition.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/asf/!svn/ver/943565/mahout/trunk/math/src/main/java/org/apache/mahout/math/matrix/linalg/SingularValueDecomposition.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/repos/asf/!svn/ver/943565/mahout/trunk/math/src/main/java/org/apache/mahout/math/matrix/linalg/package.html
+END

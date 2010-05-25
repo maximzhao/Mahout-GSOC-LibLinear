@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/repos/asf/!svn/ver/943565/mahout/trunk/examples/src/test/java/org/apache/mahout/ga/watchmaker/cd
+END
+DataLineTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repos/asf/!svn/ver/943565/mahout/trunk/examples/src/test/java/org/apache/mahout/ga/watchmaker/cd/DataLineTest.java
+END
+CDFitnessTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/repos/asf/!svn/ver/943565/mahout/trunk/examples/src/test/java/org/apache/mahout/ga/watchmaker/cd/CDFitnessTest.java
+END
+FileInfosDatasetTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/repos/asf/!svn/ver/943565/mahout/trunk/examples/src/test/java/org/apache/mahout/ga/watchmaker/cd/FileInfosDatasetTest.java
+END
+CDMutationTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/repos/asf/!svn/ver/943565/mahout/trunk/examples/src/test/java/org/apache/mahout/ga/watchmaker/cd/CDMutationTest.java
+END
+CDCrossoverTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/repos/asf/!svn/ver/943565/mahout/trunk/examples/src/test/java/org/apache/mahout/ga/watchmaker/cd/CDCrossoverTest.java
+END
+CDRuleTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repos/asf/!svn/ver/943565/mahout/trunk/examples/src/test/java/org/apache/mahout/ga/watchmaker/cd/CDRuleTest.java
+END

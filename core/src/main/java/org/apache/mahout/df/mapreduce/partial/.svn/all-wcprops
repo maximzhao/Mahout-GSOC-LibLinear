@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/repos/asf/!svn/ver/943565/mahout/trunk/core/src/main/java/org/apache/mahout/df/mapreduce/partial
+END
+Step1Mapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repos/asf/!svn/ver/943565/mahout/trunk/core/src/main/java/org/apache/mahout/df/mapreduce/partial/Step1Mapper.java
+END
+Step2Mapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repos/asf/!svn/ver/943565/mahout/trunk/core/src/main/java/org/apache/mahout/df/mapreduce/partial/Step2Mapper.java
+END
+InterResults.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repos/asf/!svn/ver/943565/mahout/trunk/core/src/main/java/org/apache/mahout/df/mapreduce/partial/InterResults.java
+END
+PartialBuilder.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/repos/asf/!svn/ver/943565/mahout/trunk/core/src/main/java/org/apache/mahout/df/mapreduce/partial/PartialBuilder.java
+END
+Step0Job.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/repos/asf/!svn/ver/943565/mahout/trunk/core/src/main/java/org/apache/mahout/df/mapreduce/partial/Step0Job.java
+END
+Step2Job.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/repos/asf/!svn/ver/943565/mahout/trunk/core/src/main/java/org/apache/mahout/df/mapreduce/partial/Step2Job.java
+END
+TreeID.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/repos/asf/!svn/ver/943565/mahout/trunk/core/src/main/java/org/apache/mahout/df/mapreduce/partial/TreeID.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/repos/asf/!svn/ver/943565/mahout/trunk/core/src/main/java/org/apache/mahout/df/mapreduce/partial/package.html
+END

@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/repos/asf/!svn/ver/943565/mahout/trunk/core/src/main/java/org/apache/mahout/common/iterator
+END
+FixedSizeSamplingIterator.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/repos/asf/!svn/ver/943565/mahout/trunk/core/src/main/java/org/apache/mahout/common/iterator/FixedSizeSamplingIterator.java
+END
+IteratorIterable.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repos/asf/!svn/ver/943565/mahout/trunk/core/src/main/java/org/apache/mahout/common/iterator/IteratorIterable.java
+END
+SamplingIterable.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repos/asf/!svn/ver/943565/mahout/trunk/core/src/main/java/org/apache/mahout/common/iterator/SamplingIterable.java
+END
+PermutingIterator.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repos/asf/!svn/ver/943565/mahout/trunk/core/src/main/java/org/apache/mahout/common/iterator/PermutingIterator.java
+END
+SamplingIterator.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repos/asf/!svn/ver/943565/mahout/trunk/core/src/main/java/org/apache/mahout/common/iterator/SamplingIterator.java
+END
+EmptyIterable.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/repos/asf/!svn/ver/943565/mahout/trunk/core/src/main/java/org/apache/mahout/common/iterator/EmptyIterable.java
+END
+ArrayIterator.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/repos/asf/!svn/ver/943565/mahout/trunk/core/src/main/java/org/apache/mahout/common/iterator/ArrayIterator.java
+END
+EmptyIterator.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/repos/asf/!svn/ver/943565/mahout/trunk/core/src/main/java/org/apache/mahout/common/iterator/EmptyIterator.java
+END
+IteratorUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/repos/asf/!svn/ver/943565/mahout/trunk/core/src/main/java/org/apache/mahout/common/iterator/IteratorUtils.java
+END
+StableFixedSizeSamplingIterator.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/repos/asf/!svn/ver/943565/mahout/trunk/core/src/main/java/org/apache/mahout/common/iterator/StableFixedSizeSamplingIterator.java
+END
+DelegatingIterator.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/repos/asf/!svn/ver/943565/mahout/trunk/core/src/main/java/org/apache/mahout/common/iterator/DelegatingIterator.java
+END

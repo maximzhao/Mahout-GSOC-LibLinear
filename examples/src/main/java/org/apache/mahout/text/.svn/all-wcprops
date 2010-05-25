@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repos/asf/!svn/ver/947427/mahout/trunk/examples/src/main/java/org/apache/mahout/text
+END
+WikipediaToSequenceFile.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repos/asf/!svn/ver/943565/mahout/trunk/examples/src/main/java/org/apache/mahout/text/WikipediaToSequenceFile.java
+END
+SequenceFilesFromDirectory.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/repos/asf/!svn/ver/947427/mahout/trunk/examples/src/main/java/org/apache/mahout/text/SequenceFilesFromDirectory.java
+END
+WikipediaMapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repos/asf/!svn/ver/943565/mahout/trunk/examples/src/main/java/org/apache/mahout/text/WikipediaMapper.java
+END

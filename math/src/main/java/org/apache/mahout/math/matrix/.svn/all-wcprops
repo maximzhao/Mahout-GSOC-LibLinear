@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/repos/asf/!svn/ver/947317/mahout/trunk/math/src/main/java/org/apache/mahout/math/matrix
+END
+DoubleMatrix3DProcedure.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/repos/asf/!svn/ver/943565/mahout/trunk/math/src/main/java/org/apache/mahout/math/matrix/DoubleMatrix3DProcedure.java
+END
+DoubleMatrix1D.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/repos/asf/!svn/ver/943565/mahout/trunk/math/src/main/java/org/apache/mahout/math/matrix/DoubleMatrix1D.java
+END
+DoubleMatrix2D.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/repos/asf/!svn/ver/943565/mahout/trunk/math/src/main/java/org/apache/mahout/math/matrix/DoubleMatrix2D.java
+END
+DoubleMatrix3D.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/repos/asf/!svn/ver/943565/mahout/trunk/math/src/main/java/org/apache/mahout/math/matrix/DoubleMatrix3D.java
+END
+DoubleFactory1D.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/repos/asf/!svn/ver/943565/mahout/trunk/math/src/main/java/org/apache/mahout/math/matrix/DoubleFactory1D.java
+END
+DoubleFactory2D.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/repos/asf/!svn/ver/943565/mahout/trunk/math/src/main/java/org/apache/mahout/math/matrix/DoubleFactory2D.java
+END
+DoubleFactory3D.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/repos/asf/!svn/ver/943565/mahout/trunk/math/src/main/java/org/apache/mahout/math/matrix/DoubleFactory3D.java
+END
+DoubleMatrix1DProcedure.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/repos/asf/!svn/ver/943565/mahout/trunk/math/src/main/java/org/apache/mahout/math/matrix/DoubleMatrix1DProcedure.java
+END
+DoubleMatrix2DProcedure.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/repos/asf/!svn/ver/943565/mahout/trunk/math/src/main/java/org/apache/mahout/math/matrix/DoubleMatrix2DProcedure.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/repos/asf/!svn/ver/943565/mahout/trunk/math/src/main/java/org/apache/mahout/math/matrix/package.html
+END

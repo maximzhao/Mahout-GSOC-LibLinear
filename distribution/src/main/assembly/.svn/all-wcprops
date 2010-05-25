@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repos/asf/!svn/ver/943565/mahout/trunk/distribution/src/main/assembly
+END
+xstream-LICENSE.txt
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/repos/asf/!svn/ver/943565/mahout/trunk/distribution/src/main/assembly/xstream-LICENSE.txt
+END
+src.xml
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/asf/!svn/ver/943565/mahout/trunk/distribution/src/main/assembly/src.xml
+END
+bin.xml
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/asf/!svn/ver/943565/mahout/trunk/distribution/src/main/assembly/bin.xml
+END
+xpp3-LICENSE.txt
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repos/asf/!svn/ver/943565/mahout/trunk/distribution/src/main/assembly/xpp3-LICENSE.txt
+END

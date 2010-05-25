@@ -1,0 +1,15 @@
+K 10
+svn:ignore
+V 85
+output
+testdata
+*.iml
+target
+.settings
+.classpath
+.project
+.checkstyle
+.pmd
+.ruleset
+
+END

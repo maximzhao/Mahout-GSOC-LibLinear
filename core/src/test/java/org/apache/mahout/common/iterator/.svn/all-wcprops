@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/repos/asf/!svn/ver/943565/mahout/trunk/core/src/test/java/org/apache/mahout/common/iterator
+END
+SamplerCase.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/repos/asf/!svn/ver/943565/mahout/trunk/core/src/test/java/org/apache/mahout/common/iterator/SamplerCase.java
+END
+Integers.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repos/asf/!svn/ver/943565/mahout/trunk/core/src/test/java/org/apache/mahout/common/iterator/Integers.java
+END
+TestSamplingIterator.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/repos/asf/!svn/ver/943565/mahout/trunk/core/src/test/java/org/apache/mahout/common/iterator/TestSamplingIterator.java
+END
+EmptyIteratorTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repos/asf/!svn/ver/943565/mahout/trunk/core/src/test/java/org/apache/mahout/common/iterator/EmptyIteratorTest.java
+END
+TestStableFixedSizeSampler.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/repos/asf/!svn/ver/943565/mahout/trunk/core/src/test/java/org/apache/mahout/common/iterator/TestStableFixedSizeSampler.java
+END
+IteratorUtilsTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repos/asf/!svn/ver/943565/mahout/trunk/core/src/test/java/org/apache/mahout/common/iterator/IteratorUtilsTest.java
+END
+TestFixedSizeSampler.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/repos/asf/!svn/ver/943565/mahout/trunk/core/src/test/java/org/apache/mahout/common/iterator/TestFixedSizeSampler.java
+END

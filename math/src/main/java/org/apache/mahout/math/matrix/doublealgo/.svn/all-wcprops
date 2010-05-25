@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/repos/asf/!svn/ver/943565/mahout/trunk/math/src/main/java/org/apache/mahout/math/matrix/doublealgo
+END
+Stencil.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repos/asf/!svn/ver/943565/mahout/trunk/math/src/main/java/org/apache/mahout/math/matrix/doublealgo/Stencil.java
+END
+Formatter.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repos/asf/!svn/ver/943565/mahout/trunk/math/src/main/java/org/apache/mahout/math/matrix/doublealgo/Formatter.java
+END
+Sorting.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repos/asf/!svn/ver/943565/mahout/trunk/math/src/main/java/org/apache/mahout/math/matrix/doublealgo/Sorting.java
+END
+Partitioning.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/repos/asf/!svn/ver/943565/mahout/trunk/math/src/main/java/org/apache/mahout/math/matrix/doublealgo/Partitioning.java
+END
+Statistic.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repos/asf/!svn/ver/943565/mahout/trunk/math/src/main/java/org/apache/mahout/math/matrix/doublealgo/Statistic.java
+END
+Transform.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repos/asf/!svn/ver/943565/mahout/trunk/math/src/main/java/org/apache/mahout/math/matrix/doublealgo/Transform.java
+END
+DoubleMatrix1DComparator.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/repos/asf/!svn/ver/943565/mahout/trunk/math/src/main/java/org/apache/mahout/math/matrix/doublealgo/DoubleMatrix1DComparator.java
+END
+DoubleMatrix2DComparator.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/repos/asf/!svn/ver/943565/mahout/trunk/math/src/main/java/org/apache/mahout/math/matrix/doublealgo/DoubleMatrix2DComparator.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repos/asf/!svn/ver/943565/mahout/trunk/math/src/main/java/org/apache/mahout/math/matrix/doublealgo/package.html
+END

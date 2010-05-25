@@ -1,0 +1,137 @@
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/repos/asf/!svn/ver/945913/mahout/trunk/conf
+END
+seqdirectory.props
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/repos/asf/!svn/ver/943565/mahout/trunk/conf/seqdirectory.props
+END
+meanshift.props
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/repos/asf/!svn/ver/945447/mahout/trunk/conf/meanshift.props
+END
+kmeans.props
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/repos/asf/!svn/ver/945447/mahout/trunk/conf/kmeans.props
+END
+transpose.props
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/repos/asf/!svn/ver/943565/mahout/trunk/conf/transpose.props
+END
+ldatopics.props
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/repos/asf/!svn/ver/945887/mahout/trunk/conf/ldatopics.props
+END
+trainclassifier.props
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/repos/asf/!svn/ver/943565/mahout/trunk/conf/trainclassifier.props
+END
+rowid.props
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/repos/asf/!svn/ver/943565/mahout/trunk/conf/rowid.props
+END
+fkmeans.props
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/repos/asf/!svn/ver/945777/mahout/trunk/conf/fkmeans.props
+END
+testclassifier.props
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/repos/asf/!svn/ver/943565/mahout/trunk/conf/testclassifier.props
+END
+driver.classes.props
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/repos/asf/!svn/ver/945887/mahout/trunk/conf/driver.classes.props
+END
+seq2sparse.props
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/repos/asf/!svn/ver/943565/mahout/trunk/conf/seq2sparse.props
+END
+vectordump.props
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/repos/asf/!svn/ver/943565/mahout/trunk/conf/vectordump.props
+END
+canopy.props
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/repos/asf/!svn/ver/945447/mahout/trunk/conf/canopy.props
+END
+svd.props
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/repos/asf/!svn/ver/943565/mahout/trunk/conf/svd.props
+END
+lucenevector.props
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/repos/asf/!svn/ver/943565/mahout/trunk/conf/lucenevector.props
+END
+cleansvd.props
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/repos/asf/!svn/ver/943565/mahout/trunk/conf/cleansvd.props
+END
+lda.props
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/repos/asf/!svn/ver/945913/mahout/trunk/conf/lda.props
+END
+seqdumper.props
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/repos/asf/!svn/ver/943565/mahout/trunk/conf/seqdumper.props
+END
+dirichlet.props
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/repos/asf/!svn/ver/945447/mahout/trunk/conf/dirichlet.props
+END
+clusterdump.props
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/repos/asf/!svn/ver/943565/mahout/trunk/conf/clusterdump.props
+END
+fpg.props
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/repos/asf/!svn/ver/943565/mahout/trunk/conf/fpg.props
+END
+seqwiki.props
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/repos/asf/!svn/ver/943565/mahout/trunk/conf/seqwiki.props
+END

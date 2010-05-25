@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repos/asf/!svn/ver/943565/mahout/trunk/core/src/test/java/org/apache/mahout/df/mapred/partial
+END
+Step1MapperTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repos/asf/!svn/ver/943565/mahout/trunk/core/src/test/java/org/apache/mahout/df/mapred/partial/Step1MapperTest.java
+END
+Step2MapperTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repos/asf/!svn/ver/943565/mahout/trunk/core/src/test/java/org/apache/mahout/df/mapred/partial/Step2MapperTest.java
+END
+PartialBuilderTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/repos/asf/!svn/ver/943565/mahout/trunk/core/src/test/java/org/apache/mahout/df/mapred/partial/PartialBuilderTest.java
+END
+PartialOutputCollector.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/repos/asf/!svn/ver/943565/mahout/trunk/core/src/test/java/org/apache/mahout/df/mapred/partial/PartialOutputCollector.java
+END
+Step0JobTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repos/asf/!svn/ver/943565/mahout/trunk/core/src/test/java/org/apache/mahout/df/mapred/partial/Step0JobTest.java
+END
+PartitionBugTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/repos/asf/!svn/ver/943565/mahout/trunk/core/src/test/java/org/apache/mahout/df/mapred/partial/PartitionBugTest.java
+END
+PartialSequentialBuilder.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/repos/asf/!svn/ver/943565/mahout/trunk/core/src/test/java/org/apache/mahout/df/mapred/partial/PartialSequentialBuilder.java
+END

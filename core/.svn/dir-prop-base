@@ -1,0 +1,20 @@
+K 10
+svn:ignore
+V 124
+build
+input
+output
+dist
+testdata
+test
+target
+*.iml
+.settings
+.classpath
+.project
+.checkstyle
+.pmd
+.ruleset
+testdatatestdata
+
+END

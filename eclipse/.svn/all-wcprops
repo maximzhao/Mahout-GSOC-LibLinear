@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/repos/asf/!svn/ver/943565/mahout/trunk/eclipse
+END
+MahoutCleanUp.xml
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/repos/asf/!svn/ver/943565/mahout/trunk/eclipse/MahoutCleanUp.xml
+END
+Eclipse-Lucene-Codestyle.xml
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repos/asf/!svn/ver/943565/mahout/trunk/eclipse/Eclipse-Lucene-Codestyle.xml
+END
+apache-header.txt
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/repos/asf/!svn/ver/943565/mahout/trunk/eclipse/apache-header.txt
+END
+codetemplates.xml
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/repos/asf/!svn/ver/943565/mahout/trunk/eclipse/codetemplates.xml
+END
+pom.xml
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/repos/asf/!svn/ver/943565/mahout/trunk/eclipse/pom.xml
+END
+template.checkstyle-config.xml
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/asf/!svn/ver/943565/mahout/trunk/eclipse/template.checkstyle-config.xml
+END
+addcheckstyle.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/repos/asf/!svn/ver/943565/mahout/trunk/eclipse/addcheckstyle.xsl
+END
+setup-eclipse-workspace.xml
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repos/asf/!svn/ver/943565/mahout/trunk/eclipse/setup-eclipse-workspace.xml
+END
+xmltemplates.xml
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/repos/asf/!svn/ver/943565/mahout/trunk/eclipse/xmltemplates.xml
+END

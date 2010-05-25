@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/repos/asf/!svn/ver/947427/mahout/trunk/utils/src/test/java/org/apache/mahout/utils/vectors
+END
+SequenceFileVectorIterableTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/asf/!svn/ver/943565/mahout/trunk/utils/src/test/java/org/apache/mahout/utils/vectors/SequenceFileVectorIterableTest.java
+END
+RandomVectorIterable.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/repos/asf/!svn/ver/943565/mahout/trunk/utils/src/test/java/org/apache/mahout/utils/vectors/RandomVectorIterable.java
+END

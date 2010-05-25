@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/repos/asf/!svn/ver/943565/mahout/trunk/math/src/main/java/org/apache/mahout/math/jet/random/sampling
+END
+RandomSampler.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/repos/asf/!svn/ver/943565/mahout/trunk/math/src/main/java/org/apache/mahout/math/jet/random/sampling/RandomSampler.java
+END
+RandomSamplingAssistant.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/repos/asf/!svn/ver/943565/mahout/trunk/math/src/main/java/org/apache/mahout/math/jet/random/sampling/RandomSamplingAssistant.java
+END
+WeightedRandomSampler.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/repos/asf/!svn/ver/943565/mahout/trunk/math/src/main/java/org/apache/mahout/math/jet/random/sampling/WeightedRandomSampler.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repos/asf/!svn/ver/943565/mahout/trunk/math/src/main/java/org/apache/mahout/math/jet/random/sampling/package.html
+END

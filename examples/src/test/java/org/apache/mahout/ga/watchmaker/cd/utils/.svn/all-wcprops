@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/repos/asf/!svn/ver/943565/mahout/trunk/examples/src/test/java/org/apache/mahout/ga/watchmaker/cd/utils
+END
+MockDataSet.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/repos/asf/!svn/ver/943565/mahout/trunk/examples/src/test/java/org/apache/mahout/ga/watchmaker/cd/utils/MockDataSet.java
+END
+RandomRule.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/repos/asf/!svn/ver/943565/mahout/trunk/examples/src/test/java/org/apache/mahout/ga/watchmaker/cd/utils/RandomRule.java
+END
+RandomRuleResults.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/repos/asf/!svn/ver/943565/mahout/trunk/examples/src/test/java/org/apache/mahout/ga/watchmaker/cd/utils/RandomRuleResults.java
+END

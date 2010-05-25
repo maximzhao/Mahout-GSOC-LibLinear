@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repos/asf/!svn/ver/943565/mahout/trunk/core/src/main/java/org/apache/mahout/df/split
+END
+DefaultIgSplit.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/repos/asf/!svn/ver/943565/mahout/trunk/core/src/main/java/org/apache/mahout/df/split/DefaultIgSplit.java
+END
+IgSplit.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/repos/asf/!svn/ver/943565/mahout/trunk/core/src/main/java/org/apache/mahout/df/split/IgSplit.java
+END
+Split.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/repos/asf/!svn/ver/943565/mahout/trunk/core/src/main/java/org/apache/mahout/df/split/Split.java
+END
+OptIgSplit.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/repos/asf/!svn/ver/943565/mahout/trunk/core/src/main/java/org/apache/mahout/df/split/OptIgSplit.java
+END

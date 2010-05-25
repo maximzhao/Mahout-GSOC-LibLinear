@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/repos/asf/!svn/ver/943565/mahout/trunk/core/src/test/java/org/apache/mahout/classifier/bayes
+END
+BayesClassifierSelfTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/repos/asf/!svn/ver/943565/mahout/trunk/core/src/test/java/org/apache/mahout/classifier/bayes/BayesClassifierSelfTest.java
+END
+BayesFeatureMapperTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/repos/asf/!svn/ver/943565/mahout/trunk/core/src/test/java/org/apache/mahout/classifier/bayes/BayesFeatureMapperTest.java
+END
+BayesFileFormatterTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/repos/asf/!svn/ver/943565/mahout/trunk/core/src/test/java/org/apache/mahout/classifier/bayes/BayesFileFormatterTest.java
+END
+BayesClassifierTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/repos/asf/!svn/ver/943565/mahout/trunk/core/src/test/java/org/apache/mahout/classifier/bayes/BayesClassifierTest.java
+END
+CBayesClassifierTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/repos/asf/!svn/ver/943565/mahout/trunk/core/src/test/java/org/apache/mahout/classifier/bayes/CBayesClassifierTest.java
+END

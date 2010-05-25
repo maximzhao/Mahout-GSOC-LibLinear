@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/repos/asf/!svn/ver/943565/mahout/trunk/maven/src/main/resources
+END
+mahout-checkstyle-suppressions.xml
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/repos/asf/!svn/ver/943565/mahout/trunk/maven/src/main/resources/mahout-checkstyle-suppressions.xml
+END
+findbugs-exclude.xml
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repos/asf/!svn/ver/943565/mahout/trunk/maven/src/main/resources/findbugs-exclude.xml
+END
+mahout-checkstyle.xml
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repos/asf/!svn/ver/943565/mahout/trunk/maven/src/main/resources/mahout-checkstyle.xml
+END
+mahout-eclipse-checkstyle
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/repos/asf/!svn/ver/943565/mahout/trunk/maven/src/main/resources/mahout-eclipse-checkstyle
+END
+mahout-pmd-ruleset.xml
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repos/asf/!svn/ver/943565/mahout/trunk/maven/src/main/resources/mahout-pmd-ruleset.xml
+END
+mahout-eclipse-pmd
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/repos/asf/!svn/ver/943565/mahout/trunk/maven/src/main/resources/mahout-eclipse-pmd
+END

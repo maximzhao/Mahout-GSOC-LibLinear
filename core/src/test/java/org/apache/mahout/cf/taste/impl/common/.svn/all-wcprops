@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/repos/asf/!svn/ver/943565/mahout/trunk/core/src/test/java/org/apache/mahout/cf/taste/impl/common
+END
+LongPrimitiveArrayIteratorTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/repos/asf/!svn/ver/943565/mahout/trunk/core/src/test/java/org/apache/mahout/cf/taste/impl/common/LongPrimitiveArrayIteratorTest.java
+END
+CacheTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repos/asf/!svn/ver/943565/mahout/trunk/core/src/test/java/org/apache/mahout/cf/taste/impl/common/CacheTest.java
+END
+FastIDSetTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/repos/asf/!svn/ver/943565/mahout/trunk/core/src/test/java/org/apache/mahout/cf/taste/impl/common/FastIDSetTest.java
+END
+RunningAverageAndStdDevTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/repos/asf/!svn/ver/943565/mahout/trunk/core/src/test/java/org/apache/mahout/cf/taste/impl/common/RunningAverageAndStdDevTest.java
+END
+BitSetTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repos/asf/!svn/ver/943565/mahout/trunk/core/src/test/java/org/apache/mahout/cf/taste/impl/common/BitSetTest.java
+END
+FastMapTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repos/asf/!svn/ver/943565/mahout/trunk/core/src/test/java/org/apache/mahout/cf/taste/impl/common/FastMapTest.java
+END
+RunningAverageTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/repos/asf/!svn/ver/943565/mahout/trunk/core/src/test/java/org/apache/mahout/cf/taste/impl/common/RunningAverageTest.java
+END
+InvertedRunningAverageTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/repos/asf/!svn/ver/943565/mahout/trunk/core/src/test/java/org/apache/mahout/cf/taste/impl/common/InvertedRunningAverageTest.java
+END
+MockRefreshable.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/repos/asf/!svn/ver/943565/mahout/trunk/core/src/test/java/org/apache/mahout/cf/taste/impl/common/MockRefreshable.java
+END
+SamplingLongPrimitiveIteratorTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/repos/asf/!svn/ver/943565/mahout/trunk/core/src/test/java/org/apache/mahout/cf/taste/impl/common/SamplingLongPrimitiveIteratorTest.java
+END
+RefreshHelperTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/repos/asf/!svn/ver/943565/mahout/trunk/core/src/test/java/org/apache/mahout/cf/taste/impl/common/RefreshHelperTest.java
+END

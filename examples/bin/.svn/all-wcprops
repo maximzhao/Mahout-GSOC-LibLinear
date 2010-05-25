@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/repos/asf/!svn/ver/947427/mahout/trunk/examples/bin
+END
+build-reuters.sh
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/repos/asf/!svn/ver/947427/mahout/trunk/examples/bin/build-reuters.sh
+END
+lda.algorithm
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/repos/asf/!svn/ver/943565/mahout/trunk/examples/bin/lda.algorithm
+END

@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/repos/asf/!svn/ver/947844/mahout/trunk/core/src/test/java/org/apache/mahout/cf/taste/hadoop/similarity
+END
+DistributedTanimotoCoefficientSimilarityTestCase.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/repos/asf/!svn/ver/943565/mahout/trunk/core/src/test/java/org/apache/mahout/cf/taste/hadoop/similarity/DistributedTanimotoCoefficientSimilarityTestCase.java
+END
+DistributedPearsonCorrelationSimilarityTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/repos/asf/!svn/ver/943565/mahout/trunk/core/src/test/java/org/apache/mahout/cf/taste/hadoop/similarity/DistributedPearsonCorrelationSimilarityTest.java
+END
+DistributedItemSimilarityTestCase.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/repos/asf/!svn/ver/943565/mahout/trunk/core/src/test/java/org/apache/mahout/cf/taste/hadoop/similarity/DistributedItemSimilarityTestCase.java
+END
+DistributedUncenteredCosineSimilarityTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/repos/asf/!svn/ver/943565/mahout/trunk/core/src/test/java/org/apache/mahout/cf/taste/hadoop/similarity/DistributedUncenteredCosineSimilarityTest.java
+END
+DistributedEuclideanDistanceSimilarityTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/repos/asf/!svn/ver/943565/mahout/trunk/core/src/test/java/org/apache/mahout/cf/taste/hadoop/similarity/DistributedEuclideanDistanceSimilarityTest.java
+END
+DistributedUncenteredZeroAssumingCosineSimilarityTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/repos/asf/!svn/ver/943565/mahout/trunk/core/src/test/java/org/apache/mahout/cf/taste/hadoop/similarity/DistributedUncenteredZeroAssumingCosineSimilarityTest.java
+END

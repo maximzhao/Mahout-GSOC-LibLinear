@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/repos/asf/!svn/ver/943565/mahout/trunk/core/src/main/java/org/apache/mahout/classifier/bayes/datastore
+END
+InMemoryBayesDatastore.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/repos/asf/!svn/ver/943565/mahout/trunk/core/src/main/java/org/apache/mahout/classifier/bayes/datastore/InMemoryBayesDatastore.java
+END
+HBaseBayesDatastore.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/repos/asf/!svn/ver/943565/mahout/trunk/core/src/main/java/org/apache/mahout/classifier/bayes/datastore/HBaseBayesDatastore.java
+END

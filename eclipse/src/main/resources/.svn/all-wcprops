@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/repos/asf/!svn/ver/943565/mahout/trunk/eclipse/src/main/resources
+END
+mahout-eclipse-checkstyle
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/repos/asf/!svn/ver/943565/mahout/trunk/eclipse/src/main/resources/mahout-eclipse-checkstyle
+END
+mahout-pmd-ruleset.xml
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repos/asf/!svn/ver/943565/mahout/trunk/eclipse/src/main/resources/mahout-pmd-ruleset.xml
+END
+mahout-eclipse-pmd
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repos/asf/!svn/ver/943565/mahout/trunk/eclipse/src/main/resources/mahout-eclipse-pmd
+END

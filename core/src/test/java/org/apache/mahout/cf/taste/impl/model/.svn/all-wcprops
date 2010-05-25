@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/repos/asf/!svn/ver/943565/mahout/trunk/core/src/test/java/org/apache/mahout/cf/taste/impl/model
+END
+GenericItemPreferenceArrayTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/repos/asf/!svn/ver/943565/mahout/trunk/core/src/test/java/org/apache/mahout/cf/taste/impl/model/GenericItemPreferenceArrayTest.java
+END
+GenericUserPreferenceArrayTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/repos/asf/!svn/ver/943565/mahout/trunk/core/src/test/java/org/apache/mahout/cf/taste/impl/model/GenericUserPreferenceArrayTest.java
+END
+MemoryIDMigratorTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/repos/asf/!svn/ver/943565/mahout/trunk/core/src/test/java/org/apache/mahout/cf/taste/impl/model/MemoryIDMigratorTest.java
+END
+BooleanItemPreferenceArrayTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/repos/asf/!svn/ver/943565/mahout/trunk/core/src/test/java/org/apache/mahout/cf/taste/impl/model/BooleanItemPreferenceArrayTest.java
+END
+BooleanUserPreferenceArrayTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/repos/asf/!svn/ver/943565/mahout/trunk/core/src/test/java/org/apache/mahout/cf/taste/impl/model/BooleanUserPreferenceArrayTest.java
+END

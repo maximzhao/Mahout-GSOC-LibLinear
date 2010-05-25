@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repos/asf/!svn/ver/943565/mahout/trunk/core/src/test/java/org/apache/mahout/df/data
+END
+DescriptorUtilsTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/repos/asf/!svn/ver/943565/mahout/trunk/core/src/test/java/org/apache/mahout/df/data/DescriptorUtilsTest.java
+END
+DataLoaderTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/repos/asf/!svn/ver/943565/mahout/trunk/core/src/test/java/org/apache/mahout/df/data/DataLoaderTest.java
+END
+Utils.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/repos/asf/!svn/ver/943565/mahout/trunk/core/src/test/java/org/apache/mahout/df/data/Utils.java
+END
+DataConverterTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/repos/asf/!svn/ver/943565/mahout/trunk/core/src/test/java/org/apache/mahout/df/data/DataConverterTest.java
+END
+DatasetTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/repos/asf/!svn/ver/943565/mahout/trunk/core/src/test/java/org/apache/mahout/df/data/DatasetTest.java
+END
+DataTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/repos/asf/!svn/ver/943565/mahout/trunk/core/src/test/java/org/apache/mahout/df/data/DataTest.java
+END

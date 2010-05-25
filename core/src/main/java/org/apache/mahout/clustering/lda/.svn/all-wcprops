@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/repos/asf/!svn/ver/947513/mahout/trunk/core/src/main/java/org/apache/mahout/clustering/lda
+END
+LDAInference.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/repos/asf/!svn/ver/943565/mahout/trunk/core/src/main/java/org/apache/mahout/clustering/lda/LDAInference.java
+END
+LDAState.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/repos/asf/!svn/ver/943565/mahout/trunk/core/src/main/java/org/apache/mahout/clustering/lda/LDAState.java
+END
+LDAMapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repos/asf/!svn/ver/947513/mahout/trunk/core/src/main/java/org/apache/mahout/clustering/lda/LDAMapper.java
+END
+LDAReducer.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/repos/asf/!svn/ver/943565/mahout/trunk/core/src/main/java/org/apache/mahout/clustering/lda/LDAReducer.java
+END
+LDADriver.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repos/asf/!svn/ver/947427/mahout/trunk/core/src/main/java/org/apache/mahout/clustering/lda/LDADriver.java
+END
+LDAUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/repos/asf/!svn/ver/943565/mahout/trunk/core/src/main/java/org/apache/mahout/clustering/lda/LDAUtil.java
+END

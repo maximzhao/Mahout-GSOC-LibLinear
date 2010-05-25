@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repos/asf/!svn/ver/943565/mahout/trunk/examples/src/main/java/org/apache/mahout/ga/watchmaker/travellingsalesman
+END
+RouteEvaluator.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/repos/asf/!svn/ver/943565/mahout/trunk/examples/src/main/java/org/apache/mahout/ga/watchmaker/travellingsalesman/RouteEvaluator.java
+END
+StrategyPanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/repos/asf/!svn/ver/943565/mahout/trunk/examples/src/main/java/org/apache/mahout/ga/watchmaker/travellingsalesman/StrategyPanel.java
+END
+EuropeanDistanceLookup.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/repos/asf/!svn/ver/943565/mahout/trunk/examples/src/main/java/org/apache/mahout/ga/watchmaker/travellingsalesman/EuropeanDistanceLookup.java
+END
+ExecutionPanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/repos/asf/!svn/ver/943565/mahout/trunk/examples/src/main/java/org/apache/mahout/ga/watchmaker/travellingsalesman/ExecutionPanel.java
+END
+DistanceLookup.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/repos/asf/!svn/ver/943565/mahout/trunk/examples/src/main/java/org/apache/mahout/ga/watchmaker/travellingsalesman/DistanceLookup.java
+END
+ItineraryPanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/repos/asf/!svn/ver/943565/mahout/trunk/examples/src/main/java/org/apache/mahout/ga/watchmaker/travellingsalesman/ItineraryPanel.java
+END
+ProgressListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/repos/asf/!svn/ver/943565/mahout/trunk/examples/src/main/java/org/apache/mahout/ga/watchmaker/travellingsalesman/ProgressListener.java
+END
+TravellingSalesman.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/repos/asf/!svn/ver/943565/mahout/trunk/examples/src/main/java/org/apache/mahout/ga/watchmaker/travellingsalesman/TravellingSalesman.java
+END
+readme.txt
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/repos/asf/!svn/ver/943565/mahout/trunk/examples/src/main/java/org/apache/mahout/ga/watchmaker/travellingsalesman/readme.txt
+END
+BruteForceTravellingSalesman.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/repos/asf/!svn/ver/943565/mahout/trunk/examples/src/main/java/org/apache/mahout/ga/watchmaker/travellingsalesman/BruteForceTravellingSalesman.java
+END
+EvolutionaryTravellingSalesman.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/repos/asf/!svn/ver/943565/mahout/trunk/examples/src/main/java/org/apache/mahout/ga/watchmaker/travellingsalesman/EvolutionaryTravellingSalesman.java
+END
+TravellingSalesmanStrategy.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/repos/asf/!svn/ver/943565/mahout/trunk/examples/src/main/java/org/apache/mahout/ga/watchmaker/travellingsalesman/TravellingSalesmanStrategy.java
+END

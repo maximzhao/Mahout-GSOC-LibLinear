@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/repos/asf/!svn/ver/947427/mahout/trunk/utils/src/main/java/org/apache/mahout/utils/vectors
+END
+RowIdJob.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/repos/asf/!svn/ver/943565/mahout/trunk/utils/src/main/java/org/apache/mahout/utils/vectors/RowIdJob.java
+END
+VectorDumper.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/repos/asf/!svn/ver/943565/mahout/trunk/utils/src/main/java/org/apache/mahout/utils/vectors/VectorDumper.java
+END
+VectorHelper.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/repos/asf/!svn/ver/943565/mahout/trunk/utils/src/main/java/org/apache/mahout/utils/vectors/VectorHelper.java
+END
+SequenceFileVectorIterable.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/repos/asf/!svn/ver/943565/mahout/trunk/utils/src/main/java/org/apache/mahout/utils/vectors/SequenceFileVectorIterable.java
+END
+TermInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/repos/asf/!svn/ver/943565/mahout/trunk/utils/src/main/java/org/apache/mahout/utils/vectors/TermInfo.java
+END
+Weight.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/repos/asf/!svn/ver/943565/mahout/trunk/utils/src/main/java/org/apache/mahout/utils/vectors/Weight.java
+END
+TF.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/repos/asf/!svn/ver/943565/mahout/trunk/utils/src/main/java/org/apache/mahout/utils/vectors/TF.java
+END
+TermEntry.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repos/asf/!svn/ver/943565/mahout/trunk/utils/src/main/java/org/apache/mahout/utils/vectors/TermEntry.java
+END
+TFIDF.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/repos/asf/!svn/ver/943565/mahout/trunk/utils/src/main/java/org/apache/mahout/utils/vectors/TFIDF.java
+END

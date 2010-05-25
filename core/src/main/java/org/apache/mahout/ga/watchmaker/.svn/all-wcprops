@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/repos/asf/!svn/ver/943565/mahout/trunk/core/src/main/java/org/apache/mahout/ga/watchmaker
+END
+MahoutEvaluator.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/repos/asf/!svn/ver/943565/mahout/trunk/core/src/main/java/org/apache/mahout/ga/watchmaker/MahoutEvaluator.java
+END
+OutputUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/repos/asf/!svn/ver/943565/mahout/trunk/core/src/main/java/org/apache/mahout/ga/watchmaker/OutputUtils.java
+END
+STEvolutionEngine.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repos/asf/!svn/ver/943565/mahout/trunk/core/src/main/java/org/apache/mahout/ga/watchmaker/STEvolutionEngine.java
+END
+STFitnessEvaluator.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repos/asf/!svn/ver/943565/mahout/trunk/core/src/main/java/org/apache/mahout/ga/watchmaker/STFitnessEvaluator.java
+END
+EvalMapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repos/asf/!svn/ver/943565/mahout/trunk/core/src/main/java/org/apache/mahout/ga/watchmaker/EvalMapper.java
+END
+MahoutFitnessEvaluator.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/repos/asf/!svn/ver/943565/mahout/trunk/core/src/main/java/org/apache/mahout/ga/watchmaker/MahoutFitnessEvaluator.java
+END

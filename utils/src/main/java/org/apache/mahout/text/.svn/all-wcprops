@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/repos/asf/!svn/ver/947427/mahout/trunk/utils/src/main/java/org/apache/mahout/text
+END
+SparseVectorsFromSequenceFiles.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/repos/asf/!svn/ver/947427/mahout/trunk/utils/src/main/java/org/apache/mahout/text/SparseVectorsFromSequenceFiles.java
+END
+TextParagraphSplittingJob.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repos/asf/!svn/ver/943565/mahout/trunk/utils/src/main/java/org/apache/mahout/text/TextParagraphSplittingJob.java
+END
+DefaultAnalyzer.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/repos/asf/!svn/ver/943565/mahout/trunk/utils/src/main/java/org/apache/mahout/text/DefaultAnalyzer.java
+END

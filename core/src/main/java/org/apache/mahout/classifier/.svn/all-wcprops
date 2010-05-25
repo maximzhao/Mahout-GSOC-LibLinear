@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repos/asf/!svn/ver/943565/mahout/trunk/core/src/main/java/org/apache/mahout/classifier
+END
+ClassifierResult.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/repos/asf/!svn/ver/943565/mahout/trunk/core/src/main/java/org/apache/mahout/classifier/ClassifierResult.java
+END
+ResultAnalyzer.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/repos/asf/!svn/ver/943565/mahout/trunk/core/src/main/java/org/apache/mahout/classifier/ResultAnalyzer.java
+END
+BayesFileFormatter.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/repos/asf/!svn/ver/943565/mahout/trunk/core/src/main/java/org/apache/mahout/classifier/BayesFileFormatter.java
+END
+ConfusionMatrix.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/repos/asf/!svn/ver/943565/mahout/trunk/core/src/main/java/org/apache/mahout/classifier/ConfusionMatrix.java
+END
+Classify.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/repos/asf/!svn/ver/943565/mahout/trunk/core/src/main/java/org/apache/mahout/classifier/Classify.java
+END

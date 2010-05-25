@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/repos/asf/!svn/ver/947844/mahout/trunk/core/src/main/java/org/apache/mahout/cf/taste/hadoop/similarity
+END
+DistributedLogLikelihoodSimilarity.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/repos/asf/!svn/ver/943565/mahout/trunk/core/src/main/java/org/apache/mahout/cf/taste/hadoop/similarity/DistributedLogLikelihoodSimilarity.java
+END
+DistributedPearsonCorrelationSimilarity.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/repos/asf/!svn/ver/943565/mahout/trunk/core/src/main/java/org/apache/mahout/cf/taste/hadoop/similarity/DistributedPearsonCorrelationSimilarity.java
+END
+DistributedTanimotoCoefficientSimilarity.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/repos/asf/!svn/ver/943565/mahout/trunk/core/src/main/java/org/apache/mahout/cf/taste/hadoop/similarity/DistributedTanimotoCoefficientSimilarity.java
+END
+CoRating.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/repos/asf/!svn/ver/943565/mahout/trunk/core/src/main/java/org/apache/mahout/cf/taste/hadoop/similarity/CoRating.java
+END
+DistributedUncenteredCosineSimilarity.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/repos/asf/!svn/ver/943565/mahout/trunk/core/src/main/java/org/apache/mahout/cf/taste/hadoop/similarity/DistributedUncenteredCosineSimilarity.java
+END
+DistributedItemSimilarity.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/repos/asf/!svn/ver/943565/mahout/trunk/core/src/main/java/org/apache/mahout/cf/taste/hadoop/similarity/DistributedItemSimilarity.java
+END
+AbstractDistributedItemSimilarity.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/repos/asf/!svn/ver/943565/mahout/trunk/core/src/main/java/org/apache/mahout/cf/taste/hadoop/similarity/AbstractDistributedItemSimilarity.java
+END
+DistributedEuclideanDistanceSimilarity.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/repos/asf/!svn/ver/943565/mahout/trunk/core/src/main/java/org/apache/mahout/cf/taste/hadoop/similarity/DistributedEuclideanDistanceSimilarity.java
+END
+DistributedUncenteredZeroAssumingCosineSimilarity.java
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/repos/asf/!svn/ver/943565/mahout/trunk/core/src/main/java/org/apache/mahout/cf/taste/hadoop/similarity/DistributedUncenteredZeroAssumingCosineSimilarity.java
+END

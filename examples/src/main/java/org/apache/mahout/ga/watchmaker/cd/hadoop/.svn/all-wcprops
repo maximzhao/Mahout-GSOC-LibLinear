@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/repos/asf/!svn/ver/943565/mahout/trunk/examples/src/main/java/org/apache/mahout/ga/watchmaker/cd/hadoop
+END
+CDReducer.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/repos/asf/!svn/ver/943565/mahout/trunk/examples/src/main/java/org/apache/mahout/ga/watchmaker/cd/hadoop/CDReducer.java
+END
+DatasetSplit.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/repos/asf/!svn/ver/943565/mahout/trunk/examples/src/main/java/org/apache/mahout/ga/watchmaker/cd/hadoop/DatasetSplit.java
+END
+CDMahoutEvaluator.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/asf/!svn/ver/943565/mahout/trunk/examples/src/main/java/org/apache/mahout/ga/watchmaker/cd/hadoop/CDMahoutEvaluator.java
+END
+CDMapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/repos/asf/!svn/ver/943565/mahout/trunk/examples/src/main/java/org/apache/mahout/ga/watchmaker/cd/hadoop/CDMapper.java
+END

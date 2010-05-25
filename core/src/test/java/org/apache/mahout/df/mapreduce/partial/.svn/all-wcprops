@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/repos/asf/!svn/ver/943565/mahout/trunk/core/src/test/java/org/apache/mahout/df/mapreduce/partial
+END
+Step1MapperTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/repos/asf/!svn/ver/943565/mahout/trunk/core/src/test/java/org/apache/mahout/df/mapreduce/partial/Step1MapperTest.java
+END
+Step2MapperTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/repos/asf/!svn/ver/943565/mahout/trunk/core/src/test/java/org/apache/mahout/df/mapreduce/partial/Step2MapperTest.java
+END
+InterResultsTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/repos/asf/!svn/ver/943565/mahout/trunk/core/src/test/java/org/apache/mahout/df/mapreduce/partial/InterResultsTest.java
+END
+PartialBuilderTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/repos/asf/!svn/ver/943565/mahout/trunk/core/src/test/java/org/apache/mahout/df/mapreduce/partial/PartialBuilderTest.java
+END
+Step0JobTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repos/asf/!svn/ver/943565/mahout/trunk/core/src/test/java/org/apache/mahout/df/mapreduce/partial/Step0JobTest.java
+END
+PartitionBugTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/repos/asf/!svn/ver/943565/mahout/trunk/core/src/test/java/org/apache/mahout/df/mapreduce/partial/PartitionBugTest.java
+END
+TreeIDTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repos/asf/!svn/ver/943565/mahout/trunk/core/src/test/java/org/apache/mahout/df/mapreduce/partial/TreeIDTest.java
+END
+MockContext.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repos/asf/!svn/ver/943565/mahout/trunk/core/src/test/java/org/apache/mahout/df/mapreduce/partial/MockContext.java
+END
+PartialSequentialBuilder.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/asf/!svn/ver/943565/mahout/trunk/core/src/test/java/org/apache/mahout/df/mapreduce/partial/PartialSequentialBuilder.java
+END

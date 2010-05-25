@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/repos/asf/!svn/ver/947844/mahout/trunk/core/src/main/java/org/apache/mahout/math
+END
+VarLongWritable.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/repos/asf/!svn/ver/947844/mahout/trunk/core/src/main/java/org/apache/mahout/math/VarLongWritable.java
+END
+Varint.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/repos/asf/!svn/ver/943565/mahout/trunk/core/src/main/java/org/apache/mahout/math/Varint.java
+END
+MultiLabelVectorWritable.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/repos/asf/!svn/ver/943565/mahout/trunk/core/src/main/java/org/apache/mahout/math/MultiLabelVectorWritable.java
+END
+VectorWritable.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/repos/asf/!svn/ver/943565/mahout/trunk/core/src/main/java/org/apache/mahout/math/VectorWritable.java
+END
+DenseMatrixWritable.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repos/asf/!svn/ver/943565/mahout/trunk/core/src/main/java/org/apache/mahout/math/DenseMatrixWritable.java
+END
+VarIntWritable.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/repos/asf/!svn/ver/947844/mahout/trunk/core/src/main/java/org/apache/mahout/math/VarIntWritable.java
+END
+MatrixWritable.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/repos/asf/!svn/ver/943565/mahout/trunk/core/src/main/java/org/apache/mahout/math/MatrixWritable.java
+END
